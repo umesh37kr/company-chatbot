@@ -12,3 +12,6 @@
  * 3. Pass input + retrieval information to LLM
  * 4. Congratulations
  */
+
+import { indexTheDocument } from "./prepare";
+indexTheDocument("./cg-internal-docs.pdf");
