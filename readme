@@ -5,3 +5,14 @@ https://js.langchain.com/docs/integrations/document_loaders/file_loaders/pdf/
 
 Text Splitter
 https://js.langchain.com/docs/concepts/text_splitters/
+
+openAI for text embedding
+https://platform.openai.com/login
+https://platform.openai.com/docs/models/text-embedding-3-small
+https://platform.openai.com/api-keys
+
+vector store langchain
+https://js.langchain.com/docs/integrations/vectorstores/
+
+pinecone vectore database
+https://app.pinecone.io/organizations/-O_5vHDeutWWbDPEQHYZ/projects/2692939f-1fe7-4406-810b-69453dadaab7/indexes/company-chatbot/browser
